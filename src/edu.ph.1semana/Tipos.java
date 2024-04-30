@@ -14,7 +14,6 @@ public class Tipos {
 
     System.out.println(idadeDecimal);
 
-    
-    
+
   }
 }
