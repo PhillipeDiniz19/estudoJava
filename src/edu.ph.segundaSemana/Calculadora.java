@@ -21,28 +21,7 @@ public class Calculadora {
 
         int escolha = scanner.nextInt();
 
-        switch (escolha) {
-            case 1:
-                resultado = num1 + num2;
-                break;
-            case 2:
-                resultado = num1 - num2;
-                break;
-            case 3:
-                resultado = num1 * num2;
-                break;
-            case 4:
-                if (num2 != 0) {
-                    resultado = num1 / num2;
-                } else {
-                    System.out.println("Erro: Divisão por zero!");
-                    return;
-                }
-                break;
-            default:
-                System.out.println("Opção inválida!");
-                return;
-        }
+    
 
         System.out.println("O resultado da operação é: " + resultado);
 
