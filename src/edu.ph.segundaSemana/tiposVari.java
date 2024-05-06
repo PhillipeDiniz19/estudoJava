@@ -14,6 +14,8 @@ public class tiposVari {
 
       final double VALOR_DE_PI = 3.14; // "final" sempre vai transformar a variavel em "const"
       System.out.println(VALOR_DE_PI); // Quando for uma constante sempre colocar em caixa alta para melhor representação
+      boolean trueOrFalse = false;
+      // Date dataNascimento = new Date();
       
   }
 }
