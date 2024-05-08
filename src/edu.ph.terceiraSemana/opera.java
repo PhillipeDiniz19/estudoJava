@@ -1,5 +1,11 @@
 public class opera {
   public static void main(String[] args) {
+    String nomeUm = "PHILLIPE";
+    String nomeDois = "PHILLIPE";
+
+    System.out.println(nomeUm.equals(nomeDois)); // equals ele compara o conteudo dos dois "objetos".
+
+
     int numero1 = 1;
     int numero2 = 2;
 
