@@ -1,4 +1,4 @@
-public class opera {
+public class Opera {
   public static void main(String[] args) {
     String nomeUm = "PHILLIPE";
     String nomeDois = "PHILLIPE";
