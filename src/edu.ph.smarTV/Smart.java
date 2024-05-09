@@ -18,4 +18,13 @@ public class Smart {
     System.out.println("Diminuindo volume: " + volume);
   }
 
+  public void AumentarCanal() {
+    canal++;
+    System.out.println("Aumentando volume: " + canal);
+  }
+  public void DiminuirCanal() {
+    canal--;
+    System.out.println("Diminuindo volume: " + canal);
+  }
+
 }

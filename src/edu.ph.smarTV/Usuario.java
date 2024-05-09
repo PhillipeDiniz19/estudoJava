@@ -18,6 +18,9 @@ public class Usuario {
     smart.AumentarVolume();
     smart.AumentarVolume();
     smart.DiminuirVolume();
+
+    smart.AumentarCanal();
+    smart.DiminuirCanal();
     
   }
 }
