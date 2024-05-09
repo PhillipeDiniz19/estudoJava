@@ -21,6 +21,8 @@ public class Usuario {
 
     smart.AumentarCanal();
     smart.DiminuirCanal();
+
+    smart.MudarCanal(25);
     
   }
 }
