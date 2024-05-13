@@ -3,4 +3,4 @@
 - E também criar novos portfólios.
 - Tipos de var
 - Tipos de comentarios
-- 
+- Palavras reservadas.
