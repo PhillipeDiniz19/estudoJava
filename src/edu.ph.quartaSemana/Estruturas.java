@@ -7,5 +7,19 @@ public class Estruturas {
       saldo = saldo - valorSolicitado;
     }
     System.out.println("Saldo é : " + saldo);
+
+    IfElse(args); // Chama o método IfElse
   }
+
+  public static void IfElse(String[] args) {
+    int nota = 7;
+
+    if(nota >= 7){
+      System.out.println("Aluno aprovado");
+    }else{
+      System.out.println("Aluno reprovado!!!");
+    }
+  }
+
+  
 }
