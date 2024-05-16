@@ -4,3 +4,4 @@
 - Tipos de var
 - Tipos de comentarios
 - Palavras reservadas.
+- Estruturas IF/ElSE || SWITCH CASE.
